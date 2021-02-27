@@ -7,9 +7,13 @@ public class Class1 {
 		int  numberOfStudents = 71;
 		double num = 34.5;
 		// here some changes
+
 		for (int i = 0; i < args.length; i++) {
 			
 		}
+
+		//today we have seen new comments on Git and GitHub
+
 	}
 
 }
