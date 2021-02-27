@@ -15,6 +15,8 @@ public class Class1 {
 		//today we have seen new comments on Git and GitHub
 		int a = 0;
 		System.out.println(a);
+		int b = 12;
+		System.out.println(b);
 
 	}
 
