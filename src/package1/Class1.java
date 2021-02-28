@@ -17,6 +17,8 @@ public class Class1 {
 		System.out.println(a);
 		int b = 12;
 		System.out.println(b);
+		int c = 14;
+		System.out.println(c);
 
 	}
 
